@@ -1,3 +1,5 @@
 # node-notes-using-yargs
 
-run this cmd( "npm i" ) before using.
+notes making app using yargs & chalk. In which user can add, read, list & remove the notes
+
+Note : run this cmd( "npm i" ) before using.
